@@ -1,4 +1,4 @@
-FILEPATH = "/Users/danieliseli/Desktop/todoapp/webapptodolist/todos.txt"
+FILEPATH = "todos.txt"
 
 def get_todos(filepath=FILEPATH):
     """ Read a text file and return the list of
